@@ -1,0 +1,3 @@
+[run]
+source = talk_python_search_service
+omit = talk_python_search_service/test*
